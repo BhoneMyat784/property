@@ -1,0 +1,13 @@
+api/node_modules/
+api/dist/
+api/.env
+api/prisma/dev.db
+api/prisma/dev.db-journal
+app/node_modules/
+app/dist/
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/.env
+.DS_Store
+Thumbs.db
